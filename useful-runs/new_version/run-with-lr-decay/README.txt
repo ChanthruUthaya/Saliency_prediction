@@ -1,0 +1,1 @@
+this is the logs for running nn.MSELoss() with linspace LR decay starting from 0.03

@@ -1,0 +1,11 @@
+
+CC: 0.19739680015272124
+AUC Borji: 0.6323678539453615
+AUC Shuffled: 0.5775589466859935
+
+Parameters:
+180 epochs
+Start LR 0.01
+LR decay with multiplying factor of 0.97
+Momentum 0.9
+Weight decay 0.0005

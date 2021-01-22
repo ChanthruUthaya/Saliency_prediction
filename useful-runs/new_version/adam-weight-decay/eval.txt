@@ -1,0 +1,7 @@
+CC: 0.6143237911887325
+AUC Borji: 0.6967730016974762
+AUC Shuffled: 0.5493787320689684
+
+Adam optimiser
+LR = 0.001 (default of the pytorch function)
+weight decay = 0.0005
